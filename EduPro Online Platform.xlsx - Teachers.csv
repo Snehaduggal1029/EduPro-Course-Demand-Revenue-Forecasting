@@ -1,0 +1,61 @@
+TeacherID,TeacherName,Age,Gender,Expertise,YearsOfExperience,TeacherRating
+TC00001,Leonard Montgomery,44,Female,Cybersecurity,6,3.24
+TC00002,Jill Day,32,Female,Digital Marketing,9,4.14
+TC00003,Amber Torres,32,Male,Design,4,1.56
+TC00004,Kristi Scott,34,Female,Machine Learning,9,4.39
+TC00005,David Williams,34,Male,Finance,2,3.11
+TC00006,Rebecca Webb,49,Male,Cybersecurity,14,3.36
+TC00007,Angela Beard,28,Female,Machine Learning,6,4.36
+TC00008,Steven Walker,41,Male,Data Science,15,3.54
+TC00009,Alexander Tucker,49,Female,Project Management,2,2.22
+TC00010,Frances Sanchez,29,Male,Data Science,1,2.18
+TC00011,Carol Edwards,37,Female,Artificial Intelligence,8,3.55
+TC00012,Christopher Nelson,48,Female,Cybersecurity,2,3.85
+TC00013,Brian Carrillo,35,Female,Digital Marketing,6,3.42
+TC00014,Susan Randolph,49,Male,Project Management,3,2.45
+TC00015,John Armstrong,43,Male,Data Science,7,3.07
+TC00016,David Carlson,33,Male,Data Science,1,2.92
+TC00017,Brian Perez,36,Male,Digital Marketing,4,2.33
+TC00018,Kari Pierce,47,Female,Project Management,11,4.28
+TC00019,Tommy Haynes,35,Male,Digital Marketing,8,3.4
+TC00020,Tara Reynolds,44,Female,Digital Marketing,10,3.23
+TC00021,Adam Holmes,34,Female,Machine Learning,2,3.99
+TC00022,John Holmes,33,Male,Digital Marketing,3,2.5
+TC00023,Robert Mack,32,Male,Finance,4,2.99
+TC00024,Michael Kim,40,Male,Digital Marketing,6,4.22
+TC00025,Justin Pham,29,Male,Web Development,4,2.17
+TC00026,Patrick Wilson,29,Male,Web Development,1,2.83
+TC00027,Laurie Michael,44,Female,Artificial Intelligence,3,1.55
+TC00028,Timothy Bailey,27,Female,Business,3,1.06
+TC00029,David Webb,50,Male,Artificial Intelligence,2,3.1
+TC00030,David Aguirre,50,Male,Artificial Intelligence,6,3.01
+TC00031,Brenda Mercer,47,Female,Cybersecurity,1,1.86
+TC00032,James Holder,44,Male,Cybersecurity,1,3.11
+TC00033,Wesley Garcia,39,Female,Design,12,4.04
+TC00034,Brandon Dawson,38,Male,Web Development,3,2.79
+TC00035,Sharon Jackson,27,Male,Digital Marketing,5,3.13
+TC00036,Brenda Mclean,28,Male,Digital Marketing,4,1.39
+TC00037,Debra Escobar,47,Male,Finance,8,4.39
+TC00038,Jeffrey Clark,43,Male,Digital Marketing,1,2.38
+TC00039,Elizabeth Bishop,34,Male,Finance,7,3.31
+TC00040,Kimberly Miller,49,Male,Cybersecurity,24,4.58
+TC00041,Kevin Simpson,46,Male,Artificial Intelligence,7,3.55
+TC00042,Yolanda Levine,49,Female,Machine Learning,21,4.97
+TC00043,John Williams,30,Female,Project Management,1,1.05
+TC00044,Barbara Maynard,27,Male,Finance,4,2.61
+TC00045,Emily Gutierrez,28,Female,Web Development,5,1.07
+TC00046,Brent Walters,33,Male,Cybersecurity,6,3.87
+TC00047,Brad Griffin,27,Male,Design,4,1.79
+TC00048,Theresa Gonzalez,30,Male,Finance,7,3.18
+TC00049,Valerie Wiley,46,Female,Machine Learning,6,3.46
+TC00050,Alexander Williams,32,Female,Digital Marketing,3,3.41
+TC00051,John Obrien,36,Female,Design,2,1.77
+TC00052,Susan Johnson,34,Female,Business,12,3.43
+TC00053,Aaron Kirby,35,Male,Marketing,9,4.29
+TC00054,Shelby Patrick,40,Female,Artificial Intelligence,7,4.28
+TC00055,Alison Wilson,47,Female,Cybersecurity,12,3.53
+TC00056,Alexis Everett,35,Female,Programming,9,3.95
+TC00057,Brittany Scott,44,Male,Data Science,7,3.44
+TC00058,Andrew Anderson,49,Male,Web Development,7,3.71
+TC00059,Noah Stewart,48,Female,Cybersecurity,6,3.82
+TC00060,Benjamin Gray,48,Female,Project Management,14,3.32
